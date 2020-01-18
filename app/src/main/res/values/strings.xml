@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="SpinnerItems">
+        <item>Choose your Choice</item>
+        <item>Core Java</item>
+        <item>Adavance Java</item>
+        <item>Oracle</item>
+        <item>PLSql</item>
+        <item>Angular</item>
+        <item>React Js</item>
+        <item>Core Java</item>
+        <item>Adavance Java</item>
+        <item>Oracle</item>
+        <item>PLSql</item>
+        <item>Angular</item>
+        <item>React Js</item>
+        <item>Core Java</item>
+        <item>Adavance Java</item>
+        <item>Oracle</item>
+        <item>PLSql</item>
+        <item>Angular</item>
+        <item>React Js</item>
+        <item>Core Java</item>
+        <item>Adavance Java</item>
+        <item>Oracle</item>
+        <item>PLSql</item>
+        <item>Angular</item>
+        <item>React Js</item>
+
+    </string-array>
+</resources>
