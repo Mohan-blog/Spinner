@@ -16,6 +16,9 @@ public class CountryCodePickerdata extends AppCompatActivity {
    private CountryCodePicker ccp;
     TextView tv;
 
+    Button gitdemobtn;
+    EditText gitdemoedit;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate( savedInstanceState );
